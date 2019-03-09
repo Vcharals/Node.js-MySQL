@@ -18,17 +18,17 @@ Delete a Product
 Screen Shots
 
 Initial question
-/Users/Vincecharals/Node.js-MySQL/Images/Initial.png
+https://github.com/Vcharals/Node.js-MySQL/blob/master/Images/Initial.png
 
 Requesting Quantity withing available amount
-/Users/Vincecharals/Node.js-MySQL/Images/Quantity within available.png
+https://github.com/Vcharals/Node.js-MySQL/blob/master/Images/Quantity%20within%20available.png
 
 Successfully ordered message
-/Users/Vincecharals/Node.js-MySQL/Images/Success.png
+https://github.com/Vcharals/Node.js-MySQL/blob/master/Images/Success.png
 
 Requesting an amount that exceeds available amount
-/Users/Vincecharals/Node.js-MySQL/Images/Quantity Exceeds available.png
+https://github.com/Vcharals/Node.js-MySQL/blob/master/Images/Quantity%20Exceeds%20available.png
 
 Insufficient message
-/Users/Vincecharals/Node.js-MySQL/Images/Insufficient.png
+https://github.com/Vcharals/Node.js-MySQL/blob/master/Images/Insufficient.png
 
