@@ -19,6 +19,7 @@ Screen Shots
 
 Initial question
 ![](images/Initial.png)
+
 https://github.com/Vcharals/Node.js-MySQL/blob/master/Images/Initial.png
 
 Requesting Quantity withing available amount
